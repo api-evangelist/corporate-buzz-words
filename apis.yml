@@ -1,10 +1,22 @@
 aid: corporate-buzz-words
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/corporate-buzz-words.png
 name: Corporate Buzz Words
 description: "REST API for Corporate Buzz Words"
 url: https://github.com/sameerkumar18/corporate-bs-generator-api
 specificationVersion: '0.20'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-07-25'
 x-source: public-apis/public-apis
 x-category: "Entertainment"
 x-tier: 3
