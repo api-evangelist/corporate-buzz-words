@@ -39,7 +39,6 @@ apis:
   - name: Corporate Buzz Words
     description: "REST API for Corporate Buzz Words"
     humanURL: https://github.com/sameerkumar18/corporate-bs-generator-api
-    baseURL: https://github.com/sameerkumar18/corporate-bs-generator-api
     tags:
       - Entertainment
     properties:
